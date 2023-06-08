@@ -20,3 +20,5 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 	- pi-apps 설치
 		- Visual Studio Code 설치
 		- Github Desktop 설치 및 설정
+		<!-- https://drive.google.com/drive/folders/1zWsyW0ReHuXyFKuuzWdmXJz2UVmwnDfG -->
+		
