@@ -21,16 +21,15 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 		- Visual Studio Code 설치
 		- Github Desktop 설치 및 설정
 		<!-- https://drive.google.com/drive/folders/1zWsyW0ReHuXyFKuuzWdmXJz2UVmwnDfG -->
-<<<<<<< Updated upstream
 		- Visual Studio Code
 			- Python 플러그인
 		- 리눅스 기본
 			- 리눅스 명령어(대표 20여가지)
-		
-=======
 
 ## 3일차
 - 라즈베리파이 학습
 	- 통신 설정
+		- AnyDesk 실패
 	- 리눅스 일반
->>>>>>> Stashed changes
+		- MySQL DB
+		- WebServer
