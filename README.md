@@ -31,5 +31,7 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 	- 통신 설정
 		- AnyDesk 실패
 	- 리눅스 일반
+		- 서비스 실행, 확인, 종료
+			- systemctl [start|stop|status] 서비스명
 		- MySQL DB
-		- WebServer
+	- Flask 기본
