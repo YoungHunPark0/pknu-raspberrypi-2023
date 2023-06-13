@@ -41,4 +41,9 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 	- PyQt5 설치
 	- QtDesigner 설치 및 실행확인
 	- 하드웨어 제어 - GPIO
+
+## 5일차
+- 라즈베리파이 학습
+	- 네트워크 셋팅(VNC)
+	- RGB LED / Button 클릭
 	
