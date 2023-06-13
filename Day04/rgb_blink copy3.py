@@ -2,7 +2,7 @@
 import RPi.GPIO as GPIO
 import time
 
-red = 17
+red = 17 # Ground 역할
 green = 27
 blue = 22
 
