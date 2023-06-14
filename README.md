@@ -47,3 +47,8 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 	- 네트워크 셋팅(VNC)
 	- RGB LED / Button 클릭
 	
+## 6일차
+- 라즈베리파이 학습
+	- MQTT 통신
+		- MQTT Broker IP, port 설정
+		- RPi <--> WPF

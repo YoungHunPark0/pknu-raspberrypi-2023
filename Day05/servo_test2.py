@@ -11,12 +11,12 @@ pwm.start(3.0) # 3 or 3.0
 for i in range(0, 3):
     for high in range(30, 200):
         pwm.ChangeDutyCycle(high/10.0) # 중요
-        print(f'각도 : {((high/10.0)-3)*10}')
+        #print(f'각도 : {((high/10.0)-3)*10}')
         time.sleep(0.02)
 
     for low in range(200, 30, -1):
         pwm.ChangeDutyCycle(low/10.0)
-        print(f'각도 : {((high/10.0)-3)*10}')
+        #print(f'각도 : {((high/10.0)-3)*10}')
         time.sleep(0.02)
 
 pwm.ChangeDutyCycle(0)
