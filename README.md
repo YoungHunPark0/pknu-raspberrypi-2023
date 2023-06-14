@@ -57,6 +57,12 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 		- DPi Python paho-mqtt 패키지
 		- WPF C# M2Mqtt 패키지
 
+라즈베리파이 테스트 결과
+
+<img
+src="https://raw.githubusercontent.com/YoungHunPark0/pknu-raspberrypi-2023/main/images/raspberrypi01.jpg" width="700">
+
 WPF 모니터링, 컨트롤화면
 
-라즈베리파이 테스트 결과
+<img
+src="https://raw.githubusercontent.com/YoungHunPark0/pknu-raspberrypi-2023/main/images/raspberrypi02.png" width="700">
