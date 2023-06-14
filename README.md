@@ -50,5 +50,13 @@ hosname설정 , ssh - 비밀번호인증 - 사용자이름/비번 pi/12345/ 무�
 ## 6일차
 - 라즈베리파이 학습
 	- MQTT 통신
-		- MQTT Broker IP, port 설정
+		- MQTT Broker IP, port 설정, 계정설정(옵션)
 		- RPi <--> WPF
+		- RPi 온습도 센서값 MQTT 전송
+		- WPF 모터, LED 제어값 전송
+		- DPi Python paho-mqtt 패키지
+		- WPF C# M2Mqtt 패키지
+
+WPF 모니터링, 컨트롤화면
+
+라즈베리파이 테스트 결과
